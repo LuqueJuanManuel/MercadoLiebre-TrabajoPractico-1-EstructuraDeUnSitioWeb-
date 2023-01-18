@@ -30,7 +30,7 @@
 **********************************************************************************************
 - Mockup del desafio:
 
-<img alt="Mockup del primer Desafio" src="./public/images/mockup-estructuraDeUnSitioWeb.png">    
+<img alt="Mockup del primer Desafio" src="./public/images/Mockup-estructuraDeUnSitioWeb.png">    
 
 ***********************************************************************************************
 
